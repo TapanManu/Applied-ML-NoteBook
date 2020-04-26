@@ -1,0 +1,2 @@
+https://ai.googleblog.com/2017/03/assisting-pathologists-in-detecting.html
+Cancer Detection blogs in deep learning
